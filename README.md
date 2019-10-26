@@ -122,6 +122,5 @@ Source: Past the Group ID for App-SG
 
 4.6The Application will now connect to the database load some initial data and display information.
 
-4.7Insertthis record <your name, your student ID, random number> by clicking Inventory
 
 My finished end IP:http://3.85.113.37/
