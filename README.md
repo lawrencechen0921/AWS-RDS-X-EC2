@@ -4,6 +4,9 @@
 Traditional methods of deploying servers and configuring security are complex and often involve multiple teams and long delays. 
 Fortunately, it is quick and easy to deploy secure infrastructure in the cloud.
 
+/home/ucdavislawrence/桌面/下載.png
+
+
 In this lab you will:
 1.Launch a database using Amazon RDS
 2.Launch an application server using Amazon EC2
