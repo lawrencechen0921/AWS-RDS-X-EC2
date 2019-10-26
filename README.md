@@ -4,7 +4,7 @@
 Traditional methods of deploying servers and configuring security are complex and often involve multiple teams and long delays. 
 Fortunately, it is quick and easy to deploy secure infrastructure in the cloud.
 
-/home/ucdavislawrence/桌面/下載.png
+
 
 
 In this lab you will:
