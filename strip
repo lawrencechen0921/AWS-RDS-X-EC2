@@ -1,0 +1,9 @@
+yum install -y httpd mysql
+amazon-linux-extras install -y php7.2
+
+wget https://us-west-2-tcprod.s3.amazonaws.com/courses/ILT-TF-100-ARCHIT/v6.5.1/lab-2-webapp/scripts/inventory-app.zip 
+unzip inventory-app.zip -d /var/www/html/
+wget https://github.com/aws/aws-sdk-php/releases/download/3.62.3/aws.zip 
+unzip aws -d /var/www/html
+chkconfig httpd on 
+service httpd start
